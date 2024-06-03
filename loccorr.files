@@ -1,0 +1,10 @@
+CMakeLists.txt
+Dummy_loccorr/CMakeLists.txt
+Dummy_loccorr/main.c
+Dummy_telescope/CMakeLists.txt
+Dummy_telescope/main.c
+cmdlnopts.c
+cmdlnopts.h
+corrdevice.h
+loccorrbase.h
+main.c
